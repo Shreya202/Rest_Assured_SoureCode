@@ -33,6 +33,8 @@ public class SimpleGetTest {
 		 System.out.println("Response Body is =>  " + responseBody);
 		 
 		 System.out.println("Checking git update");
+		 System.out.println("Checking git update change");
+		 
 		 
 		 
 
